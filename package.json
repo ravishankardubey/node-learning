@@ -1,0 +1,18 @@
+{
+  "name": "basic-node-app-udemy",
+  "version": "1.0.0",
+  "description": "Node Demo Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Ravi Shankar Dubey",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
